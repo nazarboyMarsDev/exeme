@@ -1,0 +1,113 @@
+h1{
+    background-color: rgb(128, 192, 242);
+    border-radius: 200px;
+    text-align: center;
+    border:  2px solid red; padding: 10px;
+}
+mark{
+    background-color: rgb(253, 245, 230); 
+    color: crimson;
+}
+h2{
+    color: rgb(41, 223, 0);
+}
+.a{
+    color: rgb(0, 220, 18);
+    background-color: yellow;
+    text-align: center;
+}
+.ss{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+} 
+input{
+    width: 905px;
+}
+button{
+    background-color: rgb(64, 110, 195);
+    color: aliceblue;
+    width: 180px;
+}
+table,tr,td,th{
+    width: 600px;
+    border: 2px solid rgb(133, 133, 133);
+    border-collapse: collapse;
+    color: rgb(6, 9, 11);
+}
+.c{
+    background-color: rgb(45, 202, 2);
+    color: aliceblue;
+}
+.b{
+    background-color: rgb(4, 29, 255);
+    color: aliceblue;
+}
+.k{
+    background-color: red;
+    color: aliceblue;
+}
+.l{
+    background-color: black;
+    color: aliceblue;
+
+}.h{
+    background-color: red;
+    color: aliceblue;
+}.u{
+    background-color: black;
+    color: aliceblue;
+}
+.x{
+    background-color: yellow;
+    color: rgb(14, 251, 34);
+    text-align: center;
+}
+.mars{
+background-color: yellow;
+color:black ;
+}
+.b{
+    
+    background-color: rgb(0, 0, 206);
+} 
+.box{
+    background-color: yellow;
+    text-align: center;
+}
+.v{
+    background-color: yellow;
+    color: rgb(31, 233, 0);
+    text-align: center;
+}
+ .hayvonlar {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: sans-serif;
+  }
+
+  .hayvonlar label {
+    display: flex;
+    align-items: center;
+    gap: 8px; 
+    cursor: pointer;
+  }
+
+  .hayvonlar input[type="radio"] {
+    width: 16px;
+    height: 16px;
+    accent-color: #007BFF; 
+  }
+  .pa{
+    color:rgb(79, 81, 77) ;
+  }
+  .i{
+    color:rgb(79, 88, 77) ;
+  }
+
+
+
+
+    
+
+
